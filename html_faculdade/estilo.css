@@ -1,0 +1,13 @@
+body {
+     background-color: rgb(0, 0, 0);
+     color: white;
+}
+p strong {
+    color: rgb(22, 140, 244);
+}
+
+a {
+    background: rgb(22, 140, 244);
+    padding: 10px;
+    border-radius: 10px;
+}
